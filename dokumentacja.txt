@@ -1,2 +1,7 @@
 Napisane przez Artura.
-Napisane przez Piotr 171
+<<<<<<< HEAD
+Napisane przez Piotr 171 - dodana nowosc JEDI
+=======
+
+Napisane przez Ulê.
+>>>>>>> 25e646ba3c061cafa3151723ca76cb954e67fbc7
