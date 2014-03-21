@@ -1,4 +1,44 @@
 Napisane przez Artura.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< .merge_file_fKtohm
+
+Napisane przez Ulê - dodane do linii.
+
+<<<<<<< HEAD
+Napisane przez ja.
+=======
+Napisane przez Piotr 171
+>>>>>>> .merge_file_EoBiSl
+=======
+Napisane przez Piotr 171
+>>>>>>> origin/171668
+=======
+zmiany, zmiany!
+>>>>>>> origin/195850
+=======
+Dopisane przez Michala
+>>>>>>> origin/200460
+=======
+A ja napisaÅ‚em cos jeszcze. ;)
+>>>>>>> origin/boda
+=======
+Napisane przez Piotr 171 - dodana nowosc JEDI
+=======
+
+Napisane przez Ulê.
+>>>>>>> 25e646ba3c061cafa3151723ca76cb954e67fbc7
+>>>>>>> origin/171668
+=======
 
 Napisane przez ja
 
@@ -17,3 +57,24 @@ cvxzndsihrioues85apsodiufjklcxzvnszdzf
 
 
 vzxcjvkjxcz,bvn,xcmfnm,cxjnfzm,zxfn,n,
+<<<<<<< HEAD
+>>>>>>> 195675
+=======
+>>>>>>> origin/195675
+=======
+zmiany, zmiany!
+
+Kolejne zmiany? Why not!
+>>>>>>> origin/195850
+=======
+<<<<<<< HEAD
+22222
+=======
+Napisane przez ja.
+>>>>>>> 288c47e1f876ca130f069bf408b237b5f85fbcc6
+>>>>>>> origin/3456
+=======
+A ja napisalem cos jeszcze. ;) alez to ciekawe !!!
+Napisane przez Ule.
+>>>>>>> origin/boda
+>>>>>>> FETCH_HEAD
