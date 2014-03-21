@@ -1,6 +1,6 @@
 Napisane przez Artura.
 
-Napisane przez Ulê.
+Napisane przez Ulê - dodane do linii.
 
 <<<<<<< HEAD
 22222
