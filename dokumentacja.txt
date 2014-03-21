@@ -6,6 +6,7 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê - dodane do linii.
@@ -66,3 +67,7 @@ Kolejne zmiany? Why not!
 Napisane przez ja.
 >>>>>>> 288c47e1f876ca130f069bf408b237b5f85fbcc6
 >>>>>>> origin/3456
+=======
+A ja napisalem cos jeszcze. ;) alez to ciekawe !!!
+Napisane przez Ule.
+>>>>>>> origin/boda
