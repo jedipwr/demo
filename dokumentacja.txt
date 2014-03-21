@@ -8,8 +8,9 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
-Napisane przez Ulê.
+Napisane przez Ulê - dodane do linii.
 
+<<<<<<< HEAD
 Napisane przez ja.
 =======
 Napisane przez Piotr 171
@@ -58,3 +59,10 @@ zmiany, zmiany!
 
 Kolejne zmiany? Why not!
 >>>>>>> origin/195850
+=======
+<<<<<<< HEAD
+22222
+=======
+Napisane przez ja.
+>>>>>>> 288c47e1f876ca130f069bf408b237b5f85fbcc6
+>>>>>>> origin/3456
