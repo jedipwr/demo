@@ -3,6 +3,7 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê.
@@ -23,3 +24,10 @@ Dopisane przez Michala
 =======
 A ja napisaÅ‚em cos jeszcze. ;)
 >>>>>>> origin/boda
+=======
+Napisane przez Piotr 171 - dodana nowosc JEDI
+=======
+
+Napisane przez Ulê.
+>>>>>>> 25e646ba3c061cafa3151723ca76cb954e67fbc7
+>>>>>>> origin/171668
