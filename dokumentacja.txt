@@ -4,6 +4,9 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> d6e19ebe0ff41fa08a305449184b6b228d571b3f
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -54,6 +57,7 @@ cvxzndsihrioues85apsodiufjklcxzvnszdzf
 
 
 vzxcjvkjxcz,bvn,xcmfnm,cxjnfzm,zxfn,n,
+<<<<<<< HEAD
 >>>>>>> origin/195675
 =======
 zmiany, zmiany!
@@ -71,3 +75,6 @@ Napisane przez ja.
 A ja napisalem cos jeszcze. ;) alez to ciekawe !!!
 Napisane przez Ule.
 >>>>>>> origin/boda
+=======
+>>>>>>> 195675
+>>>>>>> d6e19ebe0ff41fa08a305449184b6b228d571b3f
