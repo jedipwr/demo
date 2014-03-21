@@ -2,4 +2,8 @@ Napisane przez Artura.
 
 Napisane przez Ulê.
 
+<<<<<<< HEAD
 22222
+=======
+Napisane przez ja.
+>>>>>>> 288c47e1f876ca130f069bf408b237b5f85fbcc6
