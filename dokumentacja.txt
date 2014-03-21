@@ -4,6 +4,7 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê.
@@ -31,3 +32,23 @@ Napisane przez Piotr 171 - dodana nowosc JEDI
 Napisane przez Ulê.
 >>>>>>> 25e646ba3c061cafa3151723ca76cb954e67fbc7
 >>>>>>> origin/171668
+=======
+
+Napisane przez ja
+
+fds
+fds
+g
+dfh
+
+ytryjkhgdfkhjgjkhfsbfdsjkvcxhzxlhjseljer,bfdskhjvlh
+jnvkjbxckzcvxkjbcvxzkjbbjkvzx
+nd,sfndsjkfbnldkcxgzkdf\
+
+
+
+cvxzndsihrioues85apsodiufjklcxzvnszdzf
+
+
+vzxcjvkjxcz,bvn,xcmfnm,cxjnfzm,zxfn,n,
+>>>>>>> origin/195675
