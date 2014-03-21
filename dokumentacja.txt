@@ -1,5 +1,6 @@
 Napisane przez Artura.
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê.
@@ -11,3 +12,6 @@ Napisane przez Piotr 171
 =======
 Napisane przez Piotr 171
 >>>>>>> origin/171668
+=======
+zmiany, zmiany!
+>>>>>>> origin/195850
