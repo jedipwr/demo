@@ -2,6 +2,7 @@ Napisane przez Artura.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê.
@@ -19,3 +20,6 @@ zmiany, zmiany!
 =======
 Dopisane przez Michala
 >>>>>>> origin/200460
+=======
+A ja napisaÅ‚em cos jeszcze. ;)
+>>>>>>> origin/boda
