@@ -1,5 +1,9 @@
 Napisane przez Artura.
+<<<<<<< .merge_file_fKtohm
 
 Napisane przez Ulê.
 
 Napisane przez ja.
+=======
+Napisane przez Piotr 171
+>>>>>>> .merge_file_EoBiSl
